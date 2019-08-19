@@ -1,0 +1,14 @@
+{
+  "presets": ["react", "env"],
+  "plugins": ["add-module-exports"],
+  "env": {
+    "es": {
+      "comments": false,
+      "minified": true
+    },
+    "commonjs": {
+      "comments": false,
+      "minified": true
+    }
+  }
+}
